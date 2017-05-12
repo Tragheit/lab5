@@ -1,0 +1,3 @@
+/home/robertlewandowski/ClionProjects/WWSI/S2/lab5z1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/robertlewandowski/ClionProjects/WWSI/S2/lab5z1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/robertlewandowski/ClionProjects/WWSI/S2/lab5z1/cmake-build-debug/CMakeFiles/lab5z1.dir
